@@ -4,9 +4,8 @@
 
 ## Installation
 
-1. Sprachdateien in den Ordner */wp-content/languages/* kopieren.
-2. Öffne: */wp-config.php*
-3. Änderen: *define ('WPLANG', 'de_DE');* in *define ('WPLANG', 'de_DE_gg');*
+1. Sprachdateien im Ordner */wp-content/languages/* an einem anderen Ort sichern
+2. Die alten Sprachdateien mit den neuen überschreiben
 
 ## Anmerkungen
 Die Sprachdateien basieren auf denen der Wordpress-Version 3.6
