@@ -8,4 +8,4 @@
 2. Die alten Sprachdateien mit den neuen überschreiben
 
 ## Anmerkungen
-Die Sprachdateien basieren auf denen der Wordpress-Version 3.8
+Die Sprachdateien basieren auf denen der Wordpress-Version 4.0
