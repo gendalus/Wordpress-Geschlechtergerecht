@@ -2,22 +2,30 @@
 # This file is distributed under the same license as the Twenty Fourteen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-01-18 18:05+0100\n"
+"PO-Revision-Date: 2015-05-22 09:38+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.7.3\n"
+"X-Generator: Poedit 1.8\n"
 "Project-Id-Version: Twenty Fourteen\n"
 "POT-Creation-Date: \n"
 "Last-Translator: gendalus <gendalus@gmail.com>\n"
 "Language-Team: \n"
 "Language: de_DE\n"
 
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfourteen/"
+msgstr "https://wordpress.org/themes/twentyfourteen/"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
 #. translators: %s: Name of current post
 #: content-aside.php:48 content-audio.php:48 content-gallery.php:48
 #: content-image.php:48 content-link.php:48 content-quote.php:48
-#: content-video.php:48 content.php:56 inc/template-tags.php:219
+#: content-video.php:48 content.php:56 inc/template-tags.php:222
 msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
 msgstr "%s weiterlesen <span class=\"meta-nav\">&rarr;</span>"
 
@@ -67,10 +75,6 @@ msgstr "Nutze dieses Widget, um die letzten Kurzmitteilungen, Zitate, Videos, Au
 msgctxt "featured content default tag slug"
 msgid "featured"
 msgstr "featured"
-
-#. Theme URI of the plugin/theme
-msgid "http://wordpress.org/themes/twentyfourteen"
-msgstr "http://wordpress.org/themes/twentyfourteen"
 
 #: inc/customizer.php:41 inc/featured-content.php:404
 msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
@@ -331,7 +335,6 @@ msgstr "Archiv"
 msgid "Leave a comment"
 msgstr "Hinterlasse einen Kommentar"
 
-#. Author URI of the plugin/theme
 #: footer.php:21
 msgid "http://wordpress.org/"
 msgstr "http://wordpress.org/"
@@ -413,6 +416,8 @@ msgstr "Zitate"
 msgid "Twenty Fourteen"
 msgstr "Twenty Fourteen"
 
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
 #: functions.php:213
 msgctxt "Lato font: on or off"
 msgid "on"
